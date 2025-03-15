@@ -1,6 +1,32 @@
-2.6.9.1 and 2.6.9.2
+2.7.0 [in progress]:
+- Now explicitly notifies about joining an alliance, leaving an alliance, and the withdrawal of another state
+- Fixed a bug that caused the offer to not close after a defeat
+- Bug, because of which after the demolition of a building did not return the energy spent by it
+- Bug that caused offers to stop showing (mostly after refusing to accept Cap.Utopaev)
+- bug that caused the crime rate did not change
+- A bug that caused the buttons to become inactive after opening the alliances menu
+- A bug that caused paintings in the office to be shown incorrectly and not shown when received
+- Added bugs related to loading/unloading scenes
+- Updated animation mechanism
+- Improved music quality, equalized volume, updated copyright menu
+
+2.6.9.9
+- Border highlighting
+- Fix bugs (Related to the display of society in the world menu, with the lack of moves indicator, with text and translation, with the response to the proposal of cap. Utopaev)
+
+2.6.9.7
+- Live on Linux!
+
+2.6.9.6:
+- It is no longer possible to declare war by moving to an enemy hex, but only by declaration in the political menu (click on the city hall of another polis). Minimum day to declare war = 4. Peace can be offered once every 3 turns.
+- Added alliances, so far there is only one alliance - peace treaty with Pynkin;
+- Fixed a bug that caused a player to stay in the President's office forever
+
+2.6.9.1 - 2.6.9.5
 - Bugfixes
-- Event timing is now timed by days (e.g. research instead of 40 seconds should wait 2 days)
+- I think I fixed leaderboards, please check them
+- WASD navigation
+- Timing of events is now timed by days (e.g. research instead of 40 sec you have to wait 2 days)
 
 2.6.9
 - Added menu for viewing endings
