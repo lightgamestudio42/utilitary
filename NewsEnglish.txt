@@ -1,3 +1,10 @@
+2.7.1
+- Updated settings, check your
+- Removed the 9th symphony from the playlist
+- As earlier, shows time of day (at night the map is darkened, in the morning it is fainted by sunset)
+- Removed auto- show and deselect cell menu
+- You can now uncheck random articles in the configurator
+
 2.7.0 [in progress]:
 - Now explicitly notifies about joining an alliance, leaving an alliance, and the withdrawal of another state
 - Fixed a bug that caused the offer to not close after a defeat
