@@ -1,5 +1,5 @@
 2.7.2
-- Fixed tin-game timers
+- Fixed in-game timers
 
 2.7.1
 - Updated settings, check your
