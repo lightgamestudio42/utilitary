@@ -1,3 +1,15 @@
+2.8
+- The map has received a major update: new generation, tiles with grass instead of desert, borders and soldier placement have been improved, and the map has been enlarged.
+- The information menu no longer full-sreen, it now appears at the bottom.
+- More detailed reports on population dynamics and growth charts.
+- Updated font (temporarily) to a mono one, Anonymous Pro. Does it look better?
+- Updated highlighting (allowed = green, war = red, impossible = black)
+- Removed the VSync = 2 option, which caused fps to drop to 30
+- Fixed a bug related to paintings and endings. If you play through Steam, those associated with achievements will be restored automatically
+- Daily cycle: a new day after 5 reactions
+- Fixed text errors and mixed-up lines for one character
+- Added a couple of offers
+
 2.7.2
 - Fixed in-game timers
 
@@ -34,7 +46,7 @@
 
 2.6.9.1 - 2.6.9.5
 - Bugfixes
-- I think I fixed leaderboards, please check them
+- Supposed to fix leaderboards, please check them
 - WASD navigation
 - Timing of events is now timed by days (e.g. research instead of 40 sec you have to wait 2 days)
 
