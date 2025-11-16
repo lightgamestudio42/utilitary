@@ -8,6 +8,7 @@
 - Fixed a bug related to paintings and endings. If you play through Steam, those associated with achievements will be restored automatically
 - Daily cycle: a new day after 5 reactions
 - Fixed text errors and mixed-up lines for one character
+- Fixed freeze on quit
 - Added a couple of offers
 
 2.7.2
